@@ -1,7 +1,7 @@
 ﻿# SHIELD-PACK: Secure Hybrid Backup System (Prototype)
 
 ## Project Overview
-SHIELD-PACK is a high-security file encryption and backup prototype developed for [Your Course Name/Assignment Name]. The system implements a **Hybrid Cryptosystem** that combines the speed of Symmetric Encryption (AES) with the secure key distribution of Asymmetric Encryption (RSA).
+SHIELD-PACK is a high-security file encryption and backup prototype developed for Cryptography and Applications. The system implements a **Hybrid Cryptosystem** that combines the speed of Symmetric Encryption (AES) with the secure key distribution of Asymmetric Encryption (RSA).
 
 This project focuses on the "Secure-by-Design" principle, ensuring that even if the physical storage is compromised, the data remains unreadable without the specific user's credentials and private key.
 
